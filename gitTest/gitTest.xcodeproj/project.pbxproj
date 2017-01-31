@@ -14,6 +14,7 @@
 		861C29871E40572000F2358C /* gitTest.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 861C29851E40572000F2358C /* gitTest.xcdatamodeld */; };
 		861C29891E40572000F2358C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 861C29881E40572000F2358C /* Assets.xcassets */; };
 		861C298C1E40572000F2358C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 861C298A1E40572000F2358C /* LaunchScreen.storyboard */; };
+		861C29951E40578700F2358C /* Job1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 861C29941E40578700F2358C /* Job1ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		861C29881E40572000F2358C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		861C298B1E40572000F2358C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		861C298D1E40572000F2358C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		861C29931E40578700F2358C /* Job1ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Job1ViewController.h; sourceTree = "<group>"; };
+		861C29941E40578700F2358C /* Job1ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Job1ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +73,8 @@
 				861C298D1E40572000F2358C /* Info.plist */,
 				861C29851E40572000F2358C /* gitTest.xcdatamodeld */,
 				861C29791E40572000F2358C /* Supporting Files */,
+				861C29931E40578700F2358C /* Job1ViewController.h */,
+				861C29941E40578700F2358C /* Job1ViewController.m */,
 			);
 			path = gitTest;
 			sourceTree = "<group>";
@@ -157,6 +162,7 @@
 				861C29871E40572000F2358C /* gitTest.xcdatamodeld in Sources */,
 				861C29811E40572000F2358C /* ViewController.m in Sources */,
 				861C297E1E40572000F2358C /* AppDelegate.m in Sources */,
+				861C29951E40578700F2358C /* Job1ViewController.m in Sources */,
 				861C297B1E40572000F2358C /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
